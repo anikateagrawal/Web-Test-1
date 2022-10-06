@@ -52,8 +52,8 @@ i{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: cadetblue;
-    border: 2px solid cadetblue;
+    color: #29d9d5;
+    border: 2px solid #29d9d5;
     border-radius: 20px;
     padding: 10px;
     cursor: pointer;
@@ -173,7 +173,7 @@ footer{
     width: 300px;
     height: 40px;
     background-color:transparent;
-    border: 2px solid cadetblue;
+    border: 2px solid #29d9d5;
     border-radius: 10px;
     padding: 5px;
     margin: 20px 0px;
